@@ -38,7 +38,7 @@ These specifications are provisional and may change during development. The auth
 
 ## Experimental Direction
 
-JX32 will investigate predicate-driven execution as an alternative way to express conditional operations.
+JP-32 will investigate predicate-driven execution as an alternative way to express conditional operations.
 
 The architecture is intended to support comparisons that explicitly update predicate registers and instructions that execute conditionally based on those predicates.
 
